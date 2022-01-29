@@ -11,15 +11,12 @@
 
 # Hakkında
 - Toplam Komut: 55
-- Sahip: La Case De Harry ヤ#6645
+- Sahip: Harrycikk ヤ#6645
 - Discord.js: 11.5.1
 
-# Zeki Bot
+# Ayarlar
 
-Oynuyor - events/ready.js
-
-Komutlar - komutlar/komutadı.js
-
-Main - bot.js
-
-Modül Ekle/Sil - package.json
+- Oynuyor - events/ready.js
+- Komutlar - komutlar/komutadı.js
+- Main - bot.js
+- Modül Ekle/Sil - package.json
